@@ -1,0 +1,64 @@
+{
+  "name": "ZYZTM",
+  "tagline": "Cyberpunk Content Creator & Digital Artist",
+  "avatar": "/avatar.png",
+  "banner": "/banner.png",
+  "bio": "Welcome to ZYZTM Universe – where cyberpunk meets digital art. Join me on this journey through neon-lit worlds, gaming streams, and digital creations.",
+  "youtube": {
+    "channelId": "CHANNEL_ID_PLACEHOLDER",
+    "channelUrl": "https://youtube.com/@zyztm",
+    "handle": "@zyztm"
+  },
+  "twitch": {
+    "username": "zyztm",
+    "channelUrl": "https://twitch.tv/zyztm"
+  },
+  "tiktok": {
+    "username": "@zyztm",
+    "profileUrl": "https://tiktok.com/@zyztm"
+  },
+  "twitter": {
+    "username": "@zyztm",
+    "profileUrl": "https://twitter.com/zyztm"
+  },
+  "instagram": {
+    "username": "@zyztm",
+    "profileUrl": "https://instagram.com/zyztm"
+  },
+  "discord": {
+    "serverName": "ZYZTM Universe",
+    "inviteUrl": "https://discord.gg/zyztm"
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Cyberpunk Preset Pack",
+      "description": "50+ Lightroom & Capture One presets for that perfect cyberpunk aesthetic",
+      "price": 19.99,
+      "currency": "USD",
+      "imageUrl": "/products/preset-pack.png",
+      "purchaseUrl": "#",
+      "category": "presets"
+    },
+    {
+      "id": "2",
+      "name": "Neon City Wallpack",
+      "description": "40 4K wallpapers of AI-generated neon cityscapes",
+      "price": 9.99,
+      "currency": "USD",
+      "imageUrl": "/products/wallpack.png",
+      "purchaseUrl": "#",
+      "category": "wallpapers"
+    },
+    {
+      "id": "3",
+      "name": "Stream Overlay Pack",
+      "description": "Full cyberpunk stream overlay set – alerts, panels, overlays",
+      "price": 29.99,
+      "currency": "USD",
+      "imageUrl": "/products/overlay-pack.png",
+      "purchaseUrl": "#",
+      "category": "overlays"
+    }
+  ]
+}
