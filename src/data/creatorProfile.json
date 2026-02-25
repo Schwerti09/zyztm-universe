@@ -1,0 +1,95 @@
+{
+  "name": "ZYZTM",
+  "tagline": "Next-Gen Creator • Streamer • Digital Architect",
+  "bio": "Welcome to the ZYZTM Universe – your portal into next-generation streaming, gaming content, and digital experiences. Join the community and explore exclusive content across all platforms.",
+  "avatarUrl": "/avatar.webp",
+  "bannerUrl": "/banner.webp",
+  "socials": [
+    {
+      "platform": "youtube",
+      "handle": "@ZYZTM",
+      "url": "https://youtube.com/@ZYZTM",
+      "active": true
+    },
+    {
+      "platform": "twitch",
+      "handle": "ZYZTM",
+      "url": "https://twitch.tv/ZYZTM",
+      "active": true
+    },
+    {
+      "platform": "tiktok",
+      "handle": "@ZYZTM",
+      "url": "https://tiktok.com/@ZYZTM",
+      "active": true
+    },
+    {
+      "platform": "x",
+      "handle": "@ZYZTM",
+      "url": "https://x.com/ZYZTM",
+      "active": true
+    },
+    {
+      "platform": "instagram",
+      "handle": "@ZYZTM",
+      "url": "https://instagram.com/ZYZTM",
+      "active": true
+    },
+    {
+      "platform": "discord",
+      "handle": "ZYZTM Community",
+      "url": "https://discord.gg/ZYZTM",
+      "active": true
+    }
+  ],
+  "products": [
+    {
+      "id": "overlay-neon-hud",
+      "title": "Neon HUD Stream Overlay",
+      "description": "Cyberpunk-themed animated stream overlay pack with alerts, panels, and webcam frames.",
+      "priceUsdCents": 1499,
+      "type": "overlay",
+      "thumbnailUrl": "/products/overlay-neon.webp",
+      "available": true
+    },
+    {
+      "id": "emote-pack-cyber",
+      "title": "Cyber Emote Pack",
+      "description": "Set of 8 custom cyberpunk emotes for Twitch and Discord.",
+      "priceUsdCents": 799,
+      "type": "emote",
+      "thumbnailUrl": "/products/emotes-cyber.webp",
+      "available": true
+    },
+    {
+      "id": "guide-streaming-101",
+      "title": "Streaming Setup Guide 2026",
+      "description": "Complete guide to building a professional streaming setup from scratch.",
+      "priceUsdCents": 2499,
+      "type": "guide",
+      "thumbnailUrl": "/products/guide-stream.webp",
+      "available": true
+    }
+  ],
+  "schedule": [
+    {
+      "id": "stream-1",
+      "title": "Late Night Gaming Session",
+      "startTime": "2026-03-01T21:00:00Z",
+      "platform": "twitch",
+      "description": "Chill gaming vibes with the community"
+    },
+    {
+      "id": "stream-2",
+      "title": "New Video Premiere",
+      "startTime": "2026-03-03T18:00:00Z",
+      "platform": "youtube",
+      "description": "Exclusive premiere of the latest video"
+    }
+  ],
+  "brandColors": {
+    "primary": "#a855f7",
+    "secondary": "#06b6d4",
+    "accent": "#ec4899"
+  }
+}

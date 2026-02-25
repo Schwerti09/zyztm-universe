@@ -1,0 +1,16 @@
+/* ── App Layout ─────────────────────────────────────────────── */
+
+#root {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* ── Footer ────────────────────────────────────────────────── */
+
+.footer-glow {
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(168, 85, 247, 0.05) 100%
+  );
+}
